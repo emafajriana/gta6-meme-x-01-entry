@@ -1,5 +1,9 @@
 // Entry runner for the make.fun bounty "gta6-meme-x-01".
 //
+// Challenger entry: the meme is a Steam purchase receipt dated
+// September 17, 2013 for a GTA VI pre-order that is still
+// "Preparing to ship", estimated delivery November 19, 2026.
+//
 // The whole job is deliberately tiny: hand the grader the post address by
 // copying POST.json from this repository into the output directory. The
 // meme itself lives on X; this program only delivers its address.
